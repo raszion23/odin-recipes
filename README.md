@@ -1,0 +1,1 @@
+This project will demonstrate basic HTML text and image comprehension, along with using links to navigate to other pages.
